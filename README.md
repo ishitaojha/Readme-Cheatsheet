@@ -1,4 +1,4 @@
-<h1>Basic and Easy Readme Trcks and Codes </h1>
+<h1>Basic and Easy Readme Tricks and Codes </h1>
 
 
 # The largest heading
